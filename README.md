@@ -3,7 +3,7 @@ My module 1 Capstone project for Merit America. This is a command line program t
 
 Basic Features:
 
-🍬Retrieves available items from a CSL file, automatically loads 5 of each item into the machine
+🍬Retrieves available items from a CSV file, automatically loads 5 of each item into the machine
 
 🍬Allows user to make selections and insert money
 
